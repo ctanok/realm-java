@@ -1,3 +1,9 @@
+## 1.1.1
+
+### Bug fixes
+
+* Async query might block caller thread for disposing resources.
+
 ## 1.1.0
 
 ### Bug fixes
